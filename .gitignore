@@ -1,0 +1,10 @@
+**/*.cmi
+**/*.cmo
+**/*.cma
+**/*.elf
+**/*.arm_elf
+**/*.arm_o
+**/*.hex
+**/*.byte
+docs/*
+Makefile.conf

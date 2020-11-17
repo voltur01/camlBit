@@ -1,0 +1,3 @@
+S lib/*
+S examples/*
+S ../OMicroB/targets/microbit/*
